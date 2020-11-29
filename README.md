@@ -9,6 +9,7 @@ In this project, the emotions are detected using EEG signals. We have employed S
 Please contact me or submit "issues" in this repository, and I can help you in person
 ## Project Process
 The following figure shows all the phases of this study.
+
 ![process](https://user-images.githubusercontent.com/74077380/100549827-8e58ec00-328a-11eb-91e6-88c40f6e0cb2.png)
 
 
